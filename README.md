@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Animated Gif">
+    <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Animated Gif">
   </p>
   
   <h1 align="center">Hi 👋, I'm Naem Islam</h1>
