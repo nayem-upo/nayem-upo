@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [PH University Project](https://github.com/nayem-upo/server-ph-university)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **RDBMS**
 
 - 👨‍💻 All of my projects are available at [https://naem-1d9f5.web.app/](https://naem-1d9f5.web.app/)
 
